@@ -151,4 +151,3 @@ int main(int argc, char *argv[])
     printf("%s\n", result);
     exit(0);
 }
-
